@@ -16,3 +16,9 @@ ArangoDB is built for graphs and JSON
     https://www.arangodb.com/
 GraphDB may have functionality for both noSQL and SQL
     https://graphdb.ontotext.com/
+
+Are there existing SBOMs?
+-------------------------------------------
+Yes. there are many SBOM products, and some open source ones. I couldn't find anything that was based on a graph database. A graph database is optimised for relationships, which is one of things we want for a SBOM.
+https://devblogs.microsoft.com/engineering-at-microsoft/microsoft-open-sources-salus-software-bill-of-materials-sbom-generation-tool/
+Here is the link for the microsoft tool - https://github.com/microsoft/sbom-tool
